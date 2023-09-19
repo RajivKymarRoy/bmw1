@@ -1,0 +1,181 @@
+/* PREVIOUS-NEXT PART */
+.Previous {
+    background-color: blue;
+}
+
+.Next {
+    background-color: blue;
+}
+
+/* FIRST-BANNER PART */
+.banner-img {
+    background-image: url("images/historybmw.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+}
+
+/* MIXTURE OF IMAGES & TEXTS */
+
+.firstrow{
+    height:430px;
+}
+
+.left1 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+    position: relative;
+    top: 40px;
+}
+
+.right1 img {
+    width: 100%;
+    height: 340px;
+    border-radius: 25px;
+}
+
+.secondrow{
+    height:430px;
+}
+
+.left2 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right2 img {
+    width: 100%;
+    height: 340px;
+    border-radius: 25px;
+}
+
+.thirdrow{
+    height:430px;
+}
+
+.left3 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right3 img {
+    width: 100%;
+    height: 340px;
+    border-radius: 25px;
+}
+
+.fourthrow{
+    height:430px;
+}
+
+.left4 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right4 img {
+    height: 340px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.fifthrow{
+    height:430px;
+}
+
+.left5 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right5 img {
+    height: 340px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.sixthrow{
+    height:430px;
+}
+
+.left6 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right6 img {
+    height: 340px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.seventhrow{
+    height:430px;
+}
+
+.left7 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right7 img {
+    width: 100%;
+    height: 340px;
+    border-radius: 25px;
+}
+
+.eighthrow{
+    height:430px;
+}
+
+.left8 h3 {
+    padding: 5px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.right8 img {
+    height: 340px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+/* FOOTER PART */
+
+.details{
+    
+    text-align: center;
+    background-color:black;
+}
+
+.details h3{
+    width:50%;
+    color: goldenrod;
+    margin:0 auto;
+    padding:5px;
+    position:relative;
+    top:10px;
+    
+}
+
+.icons{
+   
+    background-color:black;
+    text-align: left;
+}
+
+.icons i{
+    position:relative;
+    top:10px;   
+    margin:10px;
+    padding:10px;
+    font-size: 30px;
+    color:blue
+}
