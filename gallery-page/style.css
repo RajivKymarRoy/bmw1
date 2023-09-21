@@ -1,69 +1,199 @@
-
 /* IMAGES PART */
-.up1{
-    height:300px;
-    width:100%;
+
+.firstrow {
+    height: 300px;
+    /* background-color: blue; */
+    text-align: left;
 }
 
-.down1{
-    height:300px;
-    width:100%;
+.firstrow-img {
+    width: 50%;
+    height: 300px;
 }
 
-.up2{ 
-    height:300px;
-    width:100%;
+.secondrow {
+    height: 300px;
+    /* background-color: black; */
+    text-align: right;
 }
 
-.down2{
-    height:300px;
-    width:100%;
+.secondrow-img {
+    height: 300px;
+    width: 50%;
 }
 
-.up3{
-    height:300px;
-    width:100%;    
+.thirdrow {
+    height: 300px;
+    /* background-color: blue; */
+    text-align: left;
 }
 
-.down3{
-    height:300px;
-    width:100%; 
+.thirdrow img {
+    height: 300px;
+    width: 50%;
 }
 
-.up4{
-    height:300px;
-    width:100%;
+.fourthrow {
+    height: 300px;
+    /* background-color: black; */
+    text-align: right;
 }
 
-.down4{
-    height:300px;
-    width:100%;
+.fourthrow img {
+    height: 300px;
+    width: 50%;
 }
 
-.img1{
-    width:100%;
-    height:300px;
+.fifthrow {
+    height: 300px;
+    /* background-color: blue; */
+    text-align: left;
+}
+
+.fifthrow img {
+    height: 300px;
+    width: 50%;
+}
+
+.sixthrow {
+    height: 300px;
+    /* background-color: black; */
+    text-align: right;
+}
+
+.sixthrow img {
+    height: 300px;
+    width: 50%;
+}
+
+.seventhrow {
+    height: 300px;
+    /* background-color: blue; */
+    text-align: left;
+}
+
+.seventhrow img {
+    height: 300px;
+    width: 50%;
+}
+
+.eighthrow {
+    height: 300px;
+    /* background-color: black; */
+    text-align: right;
+}
+
+.eighthrow img {
+    height: 300px;
+    width: 50%;
+}
+
+/* BANNER-1ST PART  */
+.banner-1st {
+    background-image: url("images/BMW8.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 200px;
+}
+
+/* COLLAGE-IMAGES PART */
+.collage-first-row {
+    height: 400px;
+}
+
+.first-row-collage1 {
+    height: 400px;
+}
+
+.first-row-collage1 img {
+    height: 400px;
+    width: 100%;
+}
+
+.first-row-collage2 {
+    height: 400px;
+}
+
+.first-row-collage2 img {
+    height: 400px;
+    width: 100%;
+}
+
+.first-row-collage3 {
+    height: 400px;
+}
+
+.first-row-collage3 img {
+    height: 400px;
+    width: 100%;
 }
 
 
+/* COLLAGE-IMAGES PART */
+.collage-second-row {
+    height: 400px;
 
-.img3{
-    width:100%;
-    height:300px;
+}
+
+.second-row-collage1 {
+    height: 400px;
+
+}
+
+.second-row-collage1 img {
+    height: 400px;
+    width: 100%;
+}
+
+.second-row-collage2 {
+    height: 400px;
+
+}
+
+.second-row-collage2 img {
+    height: 400px;
+    width: 100%;
+}
+
+.second-row-collage3 {
+    height: 400px;
+
+}
+
+.second-row-collage3 img {
+    height: 400px;
+    width: 100%;
 }
 
 
+/* FOOTER PART */
+.details {
 
-.img5{
-    width:100%;
-    height:300px;
+    text-align: center;
+    background-color: black;
 }
 
+.details h3 {
+    width: 50%;
+    color: goldenrod;
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: 10px;
 
+}
 
+.icons {
 
+    background-color: black;
+    text-align: left;
+}
 
-.img8{
-    width:100%;
-    height:300px;
+.icons i {
+    position: relative;
+    top: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    color: blue
 }
