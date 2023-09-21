@@ -1,67 +1,59 @@
-.first-banner{
-    background-image: url("images/banner.jpg");
-    height:600px;
-    background-position:center center;
-    background-size:cover;
-
+.bannerfirst{
+    height:500px;
+    background-image: url("images/bannerfirst.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-.left1{
-    background-color:blue ; 
+
+.container{
+    background-image: url("images/logo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-.left1 img{
-    width:100%;
-} 
+h1{
+    text-decoration: underline;
+    color: rgb(3, 3, 147);
+}
+
+h3{
+    line-height: 70;
+}
 
 
 
-.right1{
-    background-color:rgb(145, 145, 230) ;
-    height:400px;
+
+/* FOOTER PART */
+
+.details{
+    text-align: center;
+    background-color:black;
+}
+
+.details h3{
+    width:50%;
+    color: goldenrod;
+    margin:0 auto;
+    padding:5px;
+    position:relative;
+    top:10px;
     
 }
 
-.left2{
-    background-color:green ;
-    height:400px;
-    
+.icons{
+   
+    background-color:black;
+    text-align: left;
 }
 
-.right2{
-    background-color:rgb(52, 108, 52) ;
-    height:400px;
-    
+.icons i{
+    position:relative;
+    top:10px;   
+    margin:10px;
+    padding:10px;
+    font-size: 30px;
+    color:blue
 }
-
-.left3{
-    background-color:yellow ;
-    height:400px;
-}
-
-.right3{
-    background-color:rgb(154, 154, 83) ;
-    height:400px;
-}
-
-.left4{
-    background-color:purple ;
-    height:400px;
-}
-
-.right4{
-    background-color:rgb(234, 116, 234) ;
-    height:400px;
-}
-
-.left5{
-    background-color:black ;
-    height:400px;
-}
-
-.right5{
-    background-color:rgb(232, 26, 26)  ;
-    height:400px;
-}
-
-
